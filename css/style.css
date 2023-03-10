@@ -601,6 +601,7 @@ body::after {
   height: 2.5rem;
   line-height: 2.5rem;
   position: relative;
+  text-align: center;
 }
 .social + .social {
   margin-left: 1rem;
